@@ -1,0 +1,14 @@
+.add{
+    background-image: linear-gradient(to bottom right,#003359, rgb(94, 156, 156));
+    color: azure;
+    
+}
+.input {
+    width: 35%;
+    margin: auto;
+    height: 100px;
+}
+.addButton{
+   margin: 10px;
+   width: 100px;
+}
